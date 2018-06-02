@@ -1,0 +1,17 @@
+{
+  "name": "moneytracker",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "expo": "^21.0.0",
+    "firebase": "^4.3.1",
+    "native-base": "^2.3.2",
+    "react": "16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-21.0.2.tar.gz",
+    "react-native-vector-icons": "^4.3.0",
+    "react-navigation": "^1.0.0-beta.11"
+  }
+}

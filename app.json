@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Money Tracker",
+    "description": "Track your spending",
+    "slug": "codingki",
+    "privacy": "public",
+    "sdkVersion": "21.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./app/components/icon.png",
+    "loading": {
+      "icon": "./app/components/cir.png",
+      "hideExponentText": true,
+      "backgroundColor":"#5CA270"
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+    "bundleIdentifier": "com.codingki.moneytracker",
+    },
+    "android": {
+      "package": "com.codingki.moneytracker",
+      "versionCode":1
+    }
+    }
+}
